@@ -1,0 +1,204 @@
+{
+  "menus":[
+    {
+      "selGamenId": "GenericEntryMain",
+      "selViewId": "ISB24120",
+      "selMenuName": "100登録",
+      "gamenKbn": "1",
+      "language": "chinese",
+      "paramData": "",
+      "skipFlg": false,
+      "gyoumuKbn": "entry"
+    },
+    {
+      "selGamenId": "GenericInquiryMain",
+      "selViewId": "ISB00018",
+      "selMenuName": "2-1検索一覧系A(複数行レイアウトグリッド)",
+      "gamenKbn": "1",
+      "language": "ja",
+      "paramData": "",
+      "skipFlg": false,
+      "gyoumuKbn": "inquery"
+    },
+    {
+      "selGamenId": "GenericInquiryMain",
+      "selViewId": "ISB00001",
+      "selMenuName": "2-2-1シンプルグリッド",
+      "gamenKbn": "1",
+      "language": "ja",
+      "paramData": "",
+      "skipFlg": false,
+      "gyoumuKbn": "inquery"
+    },
+    {
+      "selGamenId": "GenericInquiryMain",
+      "selViewId": "ISB00002",
+      "selMenuName": "2-2-2ページングなしグリッド",
+      "gamenKbn": "1",
+      "language": "ja",
+      "paramData": "",
+      "skipFlg": false,
+      "gyoumuKbn": "inquery"
+    },
+    {
+      "selGamenId": "GenericInquiryMain",
+      "selViewId": "ISB00003",
+      "selMenuName": "2-2-3ページング有りグリッド(検索条件管理、パーソナライズ)",
+      "gamenKbn": "1",
+      "language": "ja",
+      "paramData": "",
+      "skipFlg": false,
+      "gyoumuKbn": "inquery"
+    },
+    {
+      "selGamenId": "GenericInquiryMain",
+      "selViewId": "ISB00004",
+      "selMenuName": "2-2-4サマリー有りグリッド",
+      "gamenKbn": "1",
+      "language": "ja",
+      "paramData": "",
+      "skipFlg": false,
+      "gyoumuKbn": "inquery"
+    },
+    {
+      "selGamenId": "GenericInquiryMain",
+      "selViewId": "ISB00005",
+      "selMenuName": "2-2-5複数列ヘッダグリッド",
+      "gamenKbn": "1",
+      "language": "ja",
+      "paramData": "",
+      "skipFlg": false,
+      "gyoumuKbn": "inquery"
+    },
+    {
+      "selGamenId": "GenericInquiryMain",
+      "selViewId": "ISB00006",
+      "selMenuName": "2-2-6階層グリッド",
+      "gamenKbn": "1",
+      "language": "ja",
+      "paramData": "",
+      "skipFlg": false,
+      "gyoumuKbn": "inquery"
+    },
+    {
+      "selGamenId": "GenericInquiryMain",
+      "selViewId": "ISB00007",
+      "selMenuName": "2-3-1再登録のみ",
+      "gamenKbn": "1",
+      "language": "ja",
+      "paramData": "",
+      "skipFlg": false,
+      "gyoumuKbn": "inquery"
+    },
+    {
+      "selGamenId": "GenericInquiryMain",
+      "selViewId": "ISB00008",
+      "selMenuName": "2-3-2詳細のみ",
+      "gamenKbn": "1",
+      "language": "ja",
+      "paramData": "",
+      "skipFlg": false,
+      "gyoumuKbn": "inquery"
+    },
+    {
+      "selGamenId": "GenericInquiryMain",
+      "selViewId": "ISB00009",
+      "selMenuName": "2-3-3訂正のみ",
+      "gamenKbn": "1",
+      "language": "ja",
+      "paramData": "",
+      "skipFlg": false,
+      "gyoumuKbn": "inquery"
+    },
+    {
+      "selGamenId": "GenericInquiryMain",
+      "selViewId": "ISB00010",
+      "selMenuName": "2-3-4削除のみ",
+      "gamenKbn": "1",
+      "language": "ja",
+      "paramData": "",
+      "skipFlg": false,
+      "gyoumuKbn": "inquery"
+    },
+    {
+      "selGamenId": "GenericInquiryMain",
+      "selViewId": "ISB00011",
+      "selMenuName": "2-3-5機能実行のみ",
+      "gamenKbn": "1",
+      "language": "ja",
+      "paramData": "",
+      "skipFlg": false,
+      "gyoumuKbn": "inquery"
+    },
+    {
+      "selGamenId": "GenericInquiryMain",
+      "selViewId": "ISB00012",
+      "selMenuName": "2-3-6複合２",
+      "gamenKbn": "1",
+      "language": "ja",
+      "paramData": "",
+      "skipFlg": false,
+      "gyoumuKbn": "inquery"
+    },
+    {
+      "selGamenId": "GenericInquiryMain",
+      "selViewId": "ISB00013",
+      "selMenuName": "2-3-7複合５(詳細・更新へ遷移時BL実行)",
+      "gamenKbn": "1",
+      "language": "ja",
+      "paramData": "",
+      "skipFlg": false,
+      "gyoumuKbn": "inquery"
+    },
+    {
+      "selGamenId": "GenericInquiryMain",
+      "selViewId": "ISB00014",
+      "selMenuName": "2-4検索一覧系D",
+      "gamenKbn": "1",
+      "language": "ja",
+      "paramData": "",
+      "skipFlg": false,
+      "gyoumuKbn": "inquery"
+    },
+    {
+      "selGamenId": "GenericInquiryMain",
+      "selViewId": "ISB00099",
+      "selMenuName": "結果一覧レイアウト定義テスト",
+      "gamenKbn": "1",
+      "language": "ja",
+      "paramData": "",
+      "skipFlg": false,
+      "gyoumuKbn": "inquery"
+    },
+    {
+      "selGamenId": "GenericInquiryMain",
+      "selViewId": "ISB00089",
+      "selMenuName": "グリッドオプションテスト(通常、複数列ヘッダー、階層、複数行レイアウト)",
+      "gamenKbn": "1",
+      "language": "ja",
+      "paramData": "",
+      "skipFlg": false,
+      "gyoumuKbn": "inquery"
+    },
+    {
+      "selGamenId": "GenericInquiryMain",
+      "selViewId": "ISB00098",
+      "selMenuName": "ツリーグリッドテスト(2017/4/11で検索)",
+      "gamenKbn": "1",
+      "language": "ja",
+      "paramData": "",
+      "skipFlg": false,
+      "gyoumuKbn": "inquery"
+    },
+    {
+      "selGamenId": "GenericInquiryMain",
+      "selViewId": "ISB00020",
+      "selMenuName": "グリッド縦2つ",
+      "gamenKbn": "1",
+      "language": "ja",
+      "paramData": "",
+      "skipFlg": false,
+      "gyoumuKbn": "inquery"
+    }
+  ]
+}

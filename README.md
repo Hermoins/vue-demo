@@ -5,9 +5,9 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for development 同时启动前台页面和后台Mock数据
 ```
-npm run serve
+npm run mockdev 
 ```
 
 ### Compiles and minifies for production

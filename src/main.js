@@ -3,6 +3,7 @@ import Vue from "vue/dist/vue.esm";
 import App from "./App.vue";
 import router from "./router.js";
 import ElementUI from "element-ui";
+
 import "element-ui/lib/theme-chalk/index.css";
 import Vuex from "vuex";
 // import VueResource from 'vue-resource'
@@ -11,6 +12,14 @@ import VueAxios from "vue-axios"
 // Vue.config.productionTip = false;
 Vue.use(ElementUI);
 Vue.use(Vuex);
+
+// 全局引入echarts的方式  注意使用 Vue.use  和   Vue.prototype.$echarts = echarts;
+// import echarts from './echart.js'
+// Vue.use(echarts);
+import echarts from 'echarts'
+Vue.prototype.$echarts = echarts;
+
+
 // Vue.use(VueResource); // vue2.0之后不再推荐使用
 Vue.use(VueAxios,axios)
 Vue.prototype.$appName ="My App"  // 通过原型链定义全局变量 可以在每个vue实例中访问this.$appName

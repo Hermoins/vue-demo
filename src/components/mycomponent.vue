@@ -1,5 +1,5 @@
 <template>
-<div>
+<div ref="myconmponent" @keyup.tab="TabHandler()">
   <label>{{msg}}</label>
   <ul id ="example-1">
   <li v-for = "(item,index) of items" v-bind:key = "item.id">
@@ -112,6 +112,9 @@ export default {
     },
     onFocus() {
     // window.console.log("foused");
+    },
+    TabHandler() {
+     window.console.log(document.activeElement.id) 
     }
   }
 }

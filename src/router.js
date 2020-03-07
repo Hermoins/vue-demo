@@ -21,6 +21,8 @@ import vuex from "./vuex/vuexdemo.vue";
 import Vue from "vue/dist/vue.esm";
 import VueRouter from "vue-router";
 import keepAlive from "./components/keepAlive.vue";
+import echarts from "./charts/echarts.vue";
+import dragdropchart from "./charts/dragdropchart.vue";
 
 Vue.use(VueRouter);
 const routes = [
@@ -57,6 +59,8 @@ const routes = [
   { path: "/cookBook", name: "cookBook", component: cookBook },
   { path: "/aggrid", name: "aggrid", component: aggrid },
   { path: "/reactive", name: "reactive", component: reactive },
+  { path: "/echarts", name: "echarts", component: echarts },
+  { path: "/dragdropchart", name: "dragdropchart", component: dragdropchart },
 ];
 
 const router = new VueRouter({ routes, mode: "history", base: __dirname });
